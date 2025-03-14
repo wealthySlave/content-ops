@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/DALL_E_2025-03-14_11.38.11_-_A_p.png
+      url: /images/Adobe Express - file.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
