@@ -83,9 +83,9 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/DALL·E-2025-03-14-11.38.svg",
+        "url": "/images/DALL·E 2025-03-14 11.38.11 - A p.png",
         "altText": "Image alt text placeholder",
-        "elementId": "",
+        "elementId": " ?nf_resize=fit&w=300",
         "styles": {
             "self": {
                 "borderRadius": "medium"
