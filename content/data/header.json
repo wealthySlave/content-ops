@@ -85,7 +85,7 @@
         "type": "ImageBlock",
         "url": "/images/empathy-logo.svg",
         "altText": "Image alt text placeholder",
-        "elementId": "",
+        "elementId": " ?nf_resize=fit&w=300",
         "styles": {
             "self": {
                 "borderRadius": "medium"
