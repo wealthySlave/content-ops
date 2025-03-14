@@ -149,7 +149,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/DALL·E-2025-03-14-11.38.svg
+      url: >-
+        /images/DALL·E 2025-03-14 11.38.11 - A professional logo for 'Portland
+        Windows Cleaning' featuring ultra-clean, sparkling windows with an
+        enhanced shine effect. The design should include .png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
