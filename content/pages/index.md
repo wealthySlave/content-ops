@@ -747,12 +747,6 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: >-
-    /images/DALL·E 2025-03-14 11.38.11 - A professional logo for 'Portland
-    Windows Cleaning' featuring ultra-clean, sparkling windows with an enhanced
-    shine effect. The design should include .webp
   type: Seo
 type: PageLayout
 ---
