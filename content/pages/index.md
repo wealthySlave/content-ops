@@ -85,7 +85,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Standard Window
+        title: Standard Residential Window
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
