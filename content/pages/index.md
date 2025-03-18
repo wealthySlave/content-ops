@@ -120,7 +120,7 @@ sections:
       text: We do what others don't
       color: text-dark
       type: TitleBlock
-    subtitle: Ensure 100% satisfaction
+    subtitle: Warrenties to ensure 100% satisfaction
     text: >
       After each session, we will walk through the property with you to showcase
       the quality of our work. Any remaining spots will be promptly addressed.
