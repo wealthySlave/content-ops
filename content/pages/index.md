@@ -65,7 +65,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Solar Panel
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
