@@ -120,7 +120,7 @@ sections:
       text: 100% guarentee to bring back the shine
       color: text-dark
       type: TitleBlock
-    subtitle: Warrenties to ensure 100% satisfaction
+    subtitle: We offer
     text: >
       After each session, we will walk through the property with you to showcase
       the quality of our work. Any remaining spots will be promptly addressed.
