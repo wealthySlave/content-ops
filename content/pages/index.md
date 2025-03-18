@@ -117,7 +117,7 @@ sections:
         fontWeight: 500
   - type: GenericSection
     title:
-      text: Professional
+      text: 100% guarentee to bring back the shine
       color: text-dark
       type: TitleBlock
     subtitle: Warrenties to ensure 100% satisfaction
