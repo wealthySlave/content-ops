@@ -90,7 +90,7 @@ sections:
         url: /
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
         type: Button
