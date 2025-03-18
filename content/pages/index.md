@@ -122,9 +122,10 @@ sections:
       type: TitleBlock
     subtitle: Ensure 100% satisfaction
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      After each session, we will walk through the property with you to showcase
+      the quality of our work. Any remaining spots will be promptly addressed.
+      Additionally, we offer a callback service within a reasonable timeframe,
+      giving you peace of mind.
     actions:
       - label: Get started
         altText: ''
