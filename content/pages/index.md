@@ -122,14 +122,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      -After each session, we will walk through the property with you to
-      showcase the quality of our work. 
+      After each session, we will walk through the property with you to showcase
+      the quality of our work.
 
 
-      -Any remaining spots will be promptly addressed.
+      Any remaining spots will be promptly addressed.
 
 
-      -Additionally, we offer a free 1 week warranty! Yes, free Warranty!
+      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
     actions:
       - label: Call us (503)-606-6201
         altText: ''
