@@ -117,7 +117,7 @@ sections:
         fontWeight: 500
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: We guarenteed your satisfica
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
