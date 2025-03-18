@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: High End Window and Solar panel cleaning
       color: text-dark
       styles:
         self:
