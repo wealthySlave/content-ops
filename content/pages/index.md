@@ -117,7 +117,7 @@ sections:
         fontWeight: 500
   - type: GenericSection
     title:
-      text: We guarenteed your satisfica
+      text: Other companies charged
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
