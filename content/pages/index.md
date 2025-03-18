@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Luxury/High End Window
+      label: Luxury/High End Window and solar panel cleaning
       color: text-primary
       styles:
         self:
