@@ -117,7 +117,7 @@ sections:
         fontWeight: 500
   - type: GenericSection
     title:
-      text: We do what others don't
+      text: Professional
       color: text-dark
       type: TitleBlock
     subtitle: Warrenties to ensure 100% satisfaction
