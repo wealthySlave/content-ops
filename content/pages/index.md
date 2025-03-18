@@ -159,7 +159,7 @@ sections:
           - pr-16
   - subtitle: Enterprises that use our service
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/starbuc.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
