@@ -42,7 +42,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: Commercial Cleaning
-        subtitle: $ 88 – $ 176
+        subtitle: $13/Window
         image:
           type: ImageBlock
           url: /images/highendwindows.jpg
