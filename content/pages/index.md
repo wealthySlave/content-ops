@@ -127,7 +127,7 @@ sections:
       Additionally, we offer a callback service within a reasonable timeframe,
       giving you peace of mind.
     actions:
-      - label: Get started
+      - label: Call us
         altText: ''
         url: /
         showIcon: false
