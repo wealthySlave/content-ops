@@ -41,7 +41,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Commercial Cleaning
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
