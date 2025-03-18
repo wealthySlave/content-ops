@@ -1,14 +1,5 @@
 {
-    "primaryLinks": [
-        {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
