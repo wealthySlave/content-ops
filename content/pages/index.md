@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Luxury/High End Window
       color: text-primary
       styles:
         self:
