@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Luxury/High End Window and solar panel cleaning
+      label: Licensed and Bonded
       color: text-primary
       styles:
         self:
