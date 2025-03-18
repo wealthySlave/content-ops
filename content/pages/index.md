@@ -13,7 +13,7 @@ sections:
     subtitle: Call (503)- 606 - 6201
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 100+
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
