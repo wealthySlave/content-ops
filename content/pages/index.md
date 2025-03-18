@@ -150,7 +150,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Our promises
+      label: Guarenteed Sucess
       color: text-primary
       type: Badge
     elementId: ''
