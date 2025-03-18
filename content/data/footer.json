@@ -11,7 +11,7 @@
             {
                 "label": "Careers",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
