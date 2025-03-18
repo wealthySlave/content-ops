@@ -151,7 +151,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Our story
+      label: Our promise
       color: text-primary
       type: Badge
     elementId: ''
