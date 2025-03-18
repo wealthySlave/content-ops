@@ -38,7 +38,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Solar Panel
-        subtitle: $12.99/Panel
+        subtitle: $16.99/Panel
         image:
           type: ImageBlock
           url: /images/solar panel.webp
