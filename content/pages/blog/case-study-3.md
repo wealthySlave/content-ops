@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: 'Before and After #2'
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
