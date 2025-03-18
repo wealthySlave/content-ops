@@ -61,7 +61,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Residential Windows
+        title: High-End Residential Windows
         subtitle: $9.99/ Window
         image:
           type: ImageBlock
