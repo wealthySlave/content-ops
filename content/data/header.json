@@ -83,7 +83,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/DALL·E 2025-03-14 11.38.11 - A p.png",
+        "url": "/images/DALL_E_2025-03-14_11.38.11_-_A_p.png",
         "altText": "Image alt text placeholder",
         "elementId": " ?nf_resize=fit&w=300",
         "styles": {

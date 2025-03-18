@@ -4,93 +4,88 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: High-End Window and Solar panel cleaning
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Call (503)- 606 - 6201
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+        title: Commercial Cleaning
+        subtitle: $14.99/Window
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          url: /images/highendwindows.jpg
+          altText: Faux Fur Throw
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
+              borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             textAlign: left
+            borderRadius: none
+            flexDirection: col
             justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - type: FeaturedItem
+        title: Solar Panel
+        subtitle: $16.99/Panel
         image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/solar panel.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: High-End Residential Windows
+        subtitle: $12.99/ Window
+        image:
+          type: ImageBlock
+          url: /images/Normalwindow.jpeg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions:
-      - label: Get started
+      - label: Book a Free Estimate Today!
         altText: ''
         url: /
         showIcon: false
@@ -100,7 +95,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Licensed and Bonded!
       color: text-primary
       styles:
         self:
@@ -119,18 +114,21 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 500
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 100% guarentee to bring back the shine
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      After each session, we will walk through the property with you to showcase
+      the quality of our work. Any remaining spots will be promptly addressed. 
+
+
+      Additionally, we offer a free 1 week warranty! Yes, free Warranty! 
     actions:
-      - label: Get started
+      - label: Call us (503)-586-3085
         altText: ''
         url: /
         showIcon: false
@@ -139,25 +137,13 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: >-
-        /images/DALL·E 2025-03-14 11.38.11 - A professional logo for 'Portland
-        Windows Cleaning' featuring ultra-clean, sparkling windows with an
-        enhanced shine effect. The design should include .png
+      url: /images/Adobe Express - file.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Our promise
       color: text-primary
       type: Badge
     elementId: ''
@@ -171,41 +157,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
+      - content/pages/blog/case-study-2.md
     showThumbnail: true
     showDate: true
     showAuthor: true
