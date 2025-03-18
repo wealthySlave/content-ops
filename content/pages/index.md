@@ -89,7 +89,6 @@ sections:
         subtitle: $9.99/ Window
         image:
           type: ImageBlock
-          url: /images/standard.webp
           altText: Faux Fur Throw
           elementId: ''
           styles:
