@@ -4,45 +4,14 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Best portland window cleaner\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "#### Call (503)-606-6201\n\n",
     "secondaryLinks": {
         "title": "Company",
         "links": [
             {
                 "label": "Careers",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -50,7 +19,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -62,19 +31,19 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/",
             "icon": "github",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "https://twitter.com/",
             "icon": "twitter",
             "type": "Social"
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/",
             "icon": "linkedin",
             "type": "Social"
         },
@@ -103,7 +72,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

@@ -249,11 +249,11 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Submit or Call (503)-606-6201
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: null
     badge:
       label: Contact Us

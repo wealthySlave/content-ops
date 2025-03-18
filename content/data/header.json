@@ -2,9 +2,9 @@
     "primaryLinks": [],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "Free Estimate!",
+            "altText": "Free Estimate!",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
