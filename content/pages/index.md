@@ -119,7 +119,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 700
+        fontWeight: 500
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
