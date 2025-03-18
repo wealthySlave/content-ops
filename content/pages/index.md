@@ -214,7 +214,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Your phone number
           isRequired: true
           width: full
           type: EmailFormControl
