@@ -120,7 +120,7 @@ sections:
       text: We do what others don't
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Ensure 100% satisfaction
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
