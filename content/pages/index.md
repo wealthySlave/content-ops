@@ -234,6 +234,13 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
