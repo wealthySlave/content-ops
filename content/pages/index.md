@@ -218,6 +218,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
