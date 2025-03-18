@@ -15,10 +15,9 @@ sections:
       - type: FeaturedItem
         title: 50+
         subtitle: Recurring Clients
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our clients includes high end luxury home and big retail store that
+          trust us to regularly clean their properties
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
