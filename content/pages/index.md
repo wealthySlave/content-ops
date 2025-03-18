@@ -128,7 +128,7 @@ sections:
 
       Additionally, we offer a free 1 week warranty! Yes, free Warranty! 
     actions:
-      - label: Call us
+      - label: Call us (503)-586-3085
         altText: ''
         url: /
         showIcon: false
