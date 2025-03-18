@@ -84,34 +84,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - type: FeaturedItem
-        title: 50+
-        subtitle: Recurring Clients
-        text: >
-          Our clients includes high end luxury home and big retail store that
-          trust us to regularly clean their properties
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/highendwindows.jpg
-          styles:
-            self:
-              borderRadius: x-large
       - title: 200%
         subtitle: Faster
         text: >-
