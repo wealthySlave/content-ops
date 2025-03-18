@@ -1,5 +1,5 @@
 ---
-title: '22'
+title: Frame Cleaning is included
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
