@@ -86,7 +86,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Standard Residential Window
-        subtitle: $ 88 – $ 176
+        subtitle: $9.99/ Window
         image:
           type: ImageBlock
           url: /images/standard.webp
