@@ -90,7 +90,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Residential Windows
-        subtitle: 150$ - 199$ middle class
+        subtitle: $9.99/ Window
         image:
           type: ImageBlock
           url: /images/Normalwindow.jpeg
