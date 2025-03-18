@@ -150,7 +150,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Our promises
       color: text-primary
       type: Badge
     elementId: ''
