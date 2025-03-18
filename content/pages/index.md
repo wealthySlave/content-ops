@@ -117,7 +117,7 @@ sections:
         fontWeight: 500
   - type: GenericSection
     title:
-      text: Other companies charged
+      text: We do what others don't
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
