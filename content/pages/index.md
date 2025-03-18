@@ -13,6 +13,30 @@ sections:
     subtitle: Call (503)- 606 - 6201
     items:
       - type: FeaturedItem
+        title: Commercial Cleaning
+        subtitle: $12.99/Window
+        image:
+          type: ImageBlock
+          url: /images/highendwindows.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
         title: 50+
         subtitle: Recurring Clients
         text: >
@@ -40,30 +64,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - type: FeaturedItem
-        title: Commercial Cleaning
-        subtitle: $12.99/Window
-        image:
-          type: ImageBlock
-          url: /images/highendwindows.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
       - type: FeaturedItem
         title: Solar Panel
         subtitle: $12.99/Panel
