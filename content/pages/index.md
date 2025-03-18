@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: '503'
+      label: This is a badge
       color: text-primary
       styles:
         self:
