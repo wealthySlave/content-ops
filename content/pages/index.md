@@ -123,9 +123,10 @@ sections:
     subtitle: ''
     text: >
       After each session, we will walk through the property with you to showcase
-      the quality of our work. Any remaining spots will be promptly addressed.
-      Additionally, we offer a callback service within a reasonable timeframe,
-      giving you peace of mind.
+      the quality of our work. Any remaining spots will be promptly addressed. 
+
+
+      Additionally, we offer a free 1 week warranty! Yes, free Warranty! 
     actions:
       - label: Call us
         altText: ''
