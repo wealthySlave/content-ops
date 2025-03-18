@@ -85,7 +85,7 @@ sections:
             flexDirection: col
             justifyContent: center
     actions:
-      - label: Get started
+      - label: Book a
         altText: ''
         url: /
         showIcon: false
