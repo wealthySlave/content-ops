@@ -13,7 +13,7 @@ sections:
     subtitle: Call (503)- 606 - 6201
     items:
       - type: FeaturedItem
-        title: 100+
+        title: 50+
         subtitle: Recurring Clients
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
