@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Licensed and Bonded
+      label: Licensed and Bonded!
       color: text-primary
       styles:
         self:
