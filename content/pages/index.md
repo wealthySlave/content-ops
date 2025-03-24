@@ -79,7 +79,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Our promise
+      label: Hottest promotion in town
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
