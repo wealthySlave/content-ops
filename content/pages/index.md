@@ -2,119 +2,35 @@
 title: Home
 slug: /
 sections:
-  - type: FeaturedItemsSection
+  - type: GenericSection
     title:
-      text: High-End Window and Solar panel cleaning
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
       type: TitleBlock
-    subtitle: Call (503)- 606 - 6201
-    items:
-      - type: FeaturedItem
-        title: Commercial Cleaning
-        subtitle: $14.99/Window
-        image:
-          type: ImageBlock
-          url: /images/highendwindows.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: Solar Panel
-        subtitle: $16.99/Panel
-        image:
-          type: ImageBlock
-          url: /images/solar panel.webp
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
-        title: High-End Residential Windows
-        subtitle: $12.99/ Window
-        image:
-          type: ImageBlock
-          url: /images/Normalwindow.jpeg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-    actions:
-      - label: Book a Free Estimate Today!
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+      text: Free Exterior Window Cleaning
+      color: text-dark
+    subtitle: ''
+    text: |
+      Only on selected neighborhood, only for new customers, expire in 5 days!
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Free Exterior Window Cleaning (1).png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
     badge:
-      label: Licensed and Bonded!
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
       type: Badge
+      label: Hottest promotion in town
+      color: text-primary
     elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
+        alignItems: center
+        flexDirection: row
         padding:
-          - pb-16
           - pt-16
           - pl-16
+          - pb-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 500
   - type: GenericSection
     title:
       text: 100% guarentee to bring back the shine
@@ -160,6 +76,119 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: FeaturedItemsSection
+    title:
+      text: Window and Solar panel cleaning
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Call (503)- 606 - 6201
+    items:
+      - type: FeaturedItem
+        title: Commercial Cleaning
+        subtitle: $29.99/Window
+        image:
+          type: ImageBlock
+          url: /images/highendwindows.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: Solar Panel
+        subtitle: $19.99/Panel
+        image:
+          type: ImageBlock
+          url: /images/solar panel.webp
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: High-End Residential Windows
+        subtitle: $24.99/ Window
+        image:
+          type: ImageBlock
+          url: /images/Normalwindow.jpeg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+    actions:
+      - label: Book a Free Estimate Today!
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    badge:
+      label: Licensed and Bonded!
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 500
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-3.md
@@ -199,68 +228,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Free Estimates today
-      color: text-dark
-      type: TitleBlock
-    subtitle: Quick and Hassle Free estimate by our Experts
-    text: ''
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your phone number
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your zipcode
-          isRequired: true
-          width: full
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit or Call (503)-606-6201
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   type: Seo
 type: PageLayout
