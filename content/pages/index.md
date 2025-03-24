@@ -11,9 +11,7 @@ sections:
     text: |
       Proud of our work and quality
 
-      Best local company 
-
-      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
+      We offer a free 1 week warranty! Yes, free Warranty!
     actions:
       - label: Call us (503)-606-6201
         altText: ''
