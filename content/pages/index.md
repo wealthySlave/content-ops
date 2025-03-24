@@ -74,7 +74,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Adobe Express - file.png
+      url: /images/Free Exterior Window Cleaning (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
