@@ -53,15 +53,8 @@ sections:
       text: Free Exterior Window Cleaning
       color: text-dark
     subtitle: ''
-    text: >
-      After each session, we will walk through the property with you to showcase
-      the quality of our work.
-
-
-      Any remaining spots will be promptly addressed.
-
-
-      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
+    text: |
+      Only on selected neighborhood, expire in 5 days!
     actions:
       - type: Button
         label: Call us (503)-606-6201
