@@ -47,6 +47,51 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: 100% guarentee to bring back the shine
+      color: text-dark
+    subtitle: ''
+    text: >
+      After each session, we will walk through the property with you to showcase
+      the quality of our work.
+
+
+      Any remaining spots will be promptly addressed.
+
+
+      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
+    actions:
+      - type: Button
+        label: Call us (503)-606-6201
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Adobe Express - file.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    badge:
+      type: Badge
+      label: Our promise
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: High-End Window and Solar panel cleaning
