@@ -10,16 +10,7 @@ sections:
     subtitle: ''
     text: |
       Only on selected neighborhood, only for new customers, expire in 5 days!
-    actions:
-      - type: Button
-        label: Call Us (503)-606-6201
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Free Exterior Window Cleaning (1).png
