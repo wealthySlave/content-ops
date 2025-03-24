@@ -4,6 +4,44 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Free Exterior Window Cleaning
+      color: text-dark
+    subtitle: ''
+    text: |
+      Only on selected neighborhood, only for new customers, expire in 5 days!
+    actions:
+      - type: Button
+        label: Call Us (503)-606-6201
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/Free Exterior Window Cleaning (1).png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    badge:
+      type: Badge
+      label: Hottest promotion in town
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+  - type: GenericSection
+    title:
       text: 100% guarentee to bring back the shine
       color: text-dark
       type: TitleBlock
@@ -36,44 +74,6 @@ sections:
       label: Our promise
       color: text-primary
       type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Free Exterior Window Cleaning
-      color: text-dark
-    subtitle: ''
-    text: |
-      Only on selected neighborhood, only for new customers, expire in 5 days!
-    actions:
-      - type: Button
-        label: Call Us (503)-606-6201
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/Free Exterior Window Cleaning (1).png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    badge:
-      type: Badge
-      label: Hottest promotion in town
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
