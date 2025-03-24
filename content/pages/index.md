@@ -87,7 +87,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: High-End Window and Solar panel cleaning
+      text: Window and Solar panel cleaning
       color: text-dark
       styles:
         self:
