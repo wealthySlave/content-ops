@@ -159,7 +159,7 @@ sections:
             flexDirection: col
             justifyContent: center
     actions:
-      - label: Book a Free Estimate Today!
+      - label: ''
         altText: ''
         url: /
         showIcon: true
