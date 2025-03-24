@@ -47,7 +47,7 @@ sections:
 
       Additionally, we offer a free 1 week warranty! Yes, free Warranty!
     actions:
-      - label: Call us (503)-606-6201
+      - label: Text or Call (503)-606-6201
         altText: ''
         url: /
         showIcon: false
@@ -159,7 +159,7 @@ sections:
             flexDirection: col
             justifyContent: center
     actions:
-      - label: Book a Free Estimate Today!
+      - label: Text or Call (503)-606-6201
         altText: ''
         url: /
         showIcon: true
@@ -208,16 +208,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
