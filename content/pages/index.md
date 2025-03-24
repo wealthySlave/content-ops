@@ -2,6 +2,51 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: 100% guarentee to bring back the shine
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      After each session, we will walk through the property with you to showcase
+      the quality of our work.
+
+
+      Any remaining spots will be promptly addressed.
+
+
+      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
+    actions:
+      - label: Call us (503)-606-6201
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    media:
+      url: /images/Adobe Express - file.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Our promise
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: High-End Window and Solar panel cleaning
@@ -115,51 +160,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 500
-  - type: GenericSection
-    title:
-      text: 100% guarentee to bring back the shine
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      After each session, we will walk through the property with you to showcase
-      the quality of our work.
-
-
-      Any remaining spots will be promptly addressed.
-
-
-      Additionally, we offer a free 1 week warranty! Yes, free Warranty!
-    actions:
-      - label: Call us (503)-606-6201
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    media:
-      url: /images/Adobe Express - file.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Our promise
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-3.md
