@@ -8,13 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      After each session, we will walk through the property with you to showcase
-      the quality of our work.
+    text: |
+      Proud of our work and quality
 
-
-      Any remaining spots will be promptly addressed.
-
+      Best local company 
 
       Additionally, we offer a free 1 week warranty! Yes, free Warranty!
     actions:
