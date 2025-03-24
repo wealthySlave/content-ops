@@ -159,7 +159,7 @@ sections:
             flexDirection: col
             justifyContent: center
     actions:
-      - label: ''
+      - label: Text or Call (503)-606-6201
         altText: ''
         url: /
         showIcon: true
