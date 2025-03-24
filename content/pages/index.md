@@ -50,7 +50,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 100% guarentee to bring back the shine
+      text: Free Exterior Window Cleaning
       color: text-dark
     subtitle: ''
     text: >
