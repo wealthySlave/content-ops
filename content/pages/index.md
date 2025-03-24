@@ -47,7 +47,7 @@ sections:
 
       Additionally, we offer a free 1 week warranty! Yes, free Warranty!
     actions:
-      - label: Call us (503)-606-6201
+      - label: Text or Call (503)-606-6201
         altText: ''
         url: /
         showIcon: false
