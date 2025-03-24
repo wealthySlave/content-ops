@@ -1,0 +1,72 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "cool preset",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "c"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "100% guarentee to bring back the shine",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "After each session, we will walk through the property with you to showcase the quality of our work.\n\nAny remaining spots will be promptly addressed.\n\nAdditionally, we offer a free 1 week warranty! Yes, free Warranty!\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Call us (503)-606-6201",
+                        "altText": "",
+                        "url": "/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": ""
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Adobe Express - file.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Unblock your team boost your time to production preview",
+                    "elementId": "",
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Our promise",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row",
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-cool-preset-b0a6.png"
+        }
+    ]
+}
