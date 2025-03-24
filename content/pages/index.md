@@ -54,7 +54,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
-      Only on selected neighborhood, expire in 5 days!
+      Only on selected neighborhood, only for new customers, expire in 5 days!
     actions:
       - type: Button
         label: Call us (503)-606-6201
