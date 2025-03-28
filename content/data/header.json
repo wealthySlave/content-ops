@@ -11,17 +11,6 @@
             "type": "Button"
         },
         {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/roof",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
