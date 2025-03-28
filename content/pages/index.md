@@ -15,8 +15,9 @@ sections:
         title: Solar Panel/Window Cleaning
         subtitle: $24.99/Window
         text: >
-          We started 2 years ago cleaning windows, but have now expanded our
-          expertise into Full Exterior Maintenance service
+          We started 2 years ago cleaning commercial and residential windows,
+          but have now expanded our expertise into Full Exterior Maintenance
+          service
         image:
           type: ImageBlock
           url: /images/windows.jpg
