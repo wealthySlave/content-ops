@@ -36,17 +36,6 @@
     ],
     "secondaryLinks": [
         {
-            "type": "Link",
-            "label": "See Tutorials",
-            "altText": "",
-            "url": "/roof",
-            "showIcon": true,
-            "icon": "arrowRight",
-            "iconPosition": "left",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "label": "Text or Call (503)-606-6201",
             "altText": "Free Estimate!",
             "url": "/",
