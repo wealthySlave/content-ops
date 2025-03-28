@@ -15,16 +15,12 @@ sections:
         title: Solar Panel/Window Cleaning
         subtitle: $24.99/Window
         text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
+          Meticuslouslly scrub the frame, sill and of course the glass, all to
+          renew the window back to new!
 
 
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
+          We started 2 years ago cleaning windows, but have now expanded our
+          expertise into Full Exterior Maintenance service
 
         image:
           type: ImageBlock
