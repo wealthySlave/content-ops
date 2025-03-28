@@ -89,7 +89,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Gutter Cleaning
-        subtitle: $117
+        subtitle: Starting at 199
         image:
           type: ImageBlock
           url: /images/gutter-cleaning-los-angeles.jpg
