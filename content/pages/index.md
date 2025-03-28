@@ -57,7 +57,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Pressure Washing
-        subtitle: $ 44.99 – $ 90
+        subtitle: Starting at 199$
         image:
           type: ImageBlock
           url: /images/Pressure-washing.jpg
