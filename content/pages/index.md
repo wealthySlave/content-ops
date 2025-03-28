@@ -56,7 +56,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Press
+        title: Pressure Washing
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
