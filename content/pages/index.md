@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Window Cleaning
+        title: Solar Panel/Window Cleaning
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
