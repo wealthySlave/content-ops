@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Let us renew your property
+      text: Let us renew your properties
       color: text-dark
       styles:
         self:
