@@ -2,6 +2,17 @@
     "primaryLinks": [
         {
             "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/window",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "label": "Roof Cleaning",
             "altText": "",
             "url": "/go",
