@@ -2,15 +2,6 @@
     "primaryLinks": [],
     "secondaryLinks": [
         {
-            "label": "Text or Call (503)-606-6201",
-            "altText": "Free Estimate!",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
@@ -20,6 +11,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Text or Call (503)-606-6201",
+            "altText": "Free Estimate!",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
