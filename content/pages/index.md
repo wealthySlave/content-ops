@@ -12,7 +12,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Commercial/Residential Window Cleaning
+        title: Window Cleaning
         subtitle: $ 88 – $ 176
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
