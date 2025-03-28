@@ -56,11 +56,11 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Pressure Washing
-        subtitle: Starting at 199$
+        title: Roof Cleaning
+        subtitle: Starting at 399$
         image:
           type: ImageBlock
-          url: /images/Pressure-washing.jpg
+          url: /images/roof.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
@@ -72,11 +72,11 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
-        title: Roof Cleaning
-        subtitle: Starting at 399$
+        title: Pressure Washing
+        subtitle: Starting at 199$
         image:
           type: ImageBlock
-          url: /images/roof.jpg
+          url: /images/Pressure-washing.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
