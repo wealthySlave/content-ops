@@ -72,6 +72,22 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
+        title: Pressure Washing
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          url: /images/Pressure-washing.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+      - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
         image:
