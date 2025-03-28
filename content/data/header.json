@@ -1,5 +1,17 @@
 {
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/go",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [
         {
             "type": "Link",
