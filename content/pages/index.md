@@ -88,7 +88,7 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Gutter Cleaning
         subtitle: $117
         image:
           type: ImageBlock
