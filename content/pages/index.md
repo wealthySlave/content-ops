@@ -76,7 +76,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/Pressure-washing.jpg
+          url: /images/roof.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
