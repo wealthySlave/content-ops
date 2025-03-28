@@ -73,7 +73,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Roof Cleaning
-        subtitle: Starting at 399$
+        subtitle: Starting at 399$*
         image:
           type: ImageBlock
           url: /images/roof.jpg
