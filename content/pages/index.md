@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Solar Panel/Window Cleaning
-        subtitle: $ 88 – $ 176
+        subtitle: $24.99/Window
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
