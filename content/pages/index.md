@@ -14,14 +14,9 @@ sections:
       - type: FeaturedItem
         title: Solar Panel/Window Cleaning
         subtitle: $24.99/Window
-        text: >+
-          Meticuslouslly scrub the frame, sill and of course the glass, all to
-          renew the window back to new!
-
-
+        text: >
           We started 2 years ago cleaning windows, but have now expanded our
           expertise into Full Exterior Maintenance service
-
         image:
           type: ImageBlock
           url: /images/windows.jpg
