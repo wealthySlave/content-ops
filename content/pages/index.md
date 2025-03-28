@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Let us renew your properties
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
