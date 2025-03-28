@@ -72,7 +72,7 @@ sections:
           self:
             flexDirection: row
       - type: FeaturedItem
-        title: Pressure Washing
+        title: Roof Cleaning
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
