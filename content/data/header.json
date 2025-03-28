@@ -6,7 +6,7 @@
             "label": "See Tutorials",
             "altText": "",
             "url": "/roof",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "left",
             "style": "primary",
