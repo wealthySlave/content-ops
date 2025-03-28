@@ -28,7 +28,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/windows.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
