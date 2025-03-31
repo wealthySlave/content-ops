@@ -18,6 +18,9 @@ sections:
           We started 2 years ago cleaning commercial and residential windows,
           but have now expanded our expertise into Full Exterior Maintenance
           service
+
+
+          Look below for our services
         image:
           type: ImageBlock
           url: /images/windows.jpg
