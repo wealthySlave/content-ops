@@ -1,5 +1,50 @@
 {
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "Window/Solar",
+            "altText": "",
+            "url": "/window",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Roof Cleaning",
+            "altText": "",
+            "url": "/go",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Pressure Washing",
+            "altText": "",
+            "url": "/2",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Siding/Gutter",
+            "altText": "",
+            "url": "/3",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [
         {
             "label": "Text or Call (503)-606-6201",

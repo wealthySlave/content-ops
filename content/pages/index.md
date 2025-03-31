@@ -2,6 +2,116 @@
 title: Home
 slug: /
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Let us Renew your Properties
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: Solar Panel/Window Cleaning
+        subtitle: $24.99/Window
+        text: >
+          We started 2 years ago cleaning commercial and residential windows,
+          but have now expanded our expertise into Full Exterior Maintenance
+          service.
+
+
+          Look below for our services.
+        image:
+          type: ImageBlock
+          url: /images/windows.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: Roof Cleaning
+        subtitle: Starting at 999$
+        image:
+          type: ImageBlock
+          url: /images/roof.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+      - type: FeaturedItem
+        title: Pressure Washing
+        subtitle: Starting at 399$
+        image:
+          type: ImageBlock
+          url: /images/Pressure-washing.jpg
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+      - type: FeaturedItem
+        title: Gutter Cleaning
+        subtitle: Starting at 199$
+        image:
+          type: ImageBlock
+          url: /images/gutter-cleaning-los-angeles.jpg
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
