@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Solar Panel/Window Cleaning
-        subtitle: $24.99/Window
+        subtitle: $14.99/Window
         text: >
           We started 2 years ago cleaning commercial and residential windows,
           but have now expanded our expertise into Full Exterior Maintenance
@@ -52,7 +52,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Roof Cleaning
-        subtitle: Starting at 999$
+        subtitle: Starting at 299$
         image:
           type: ImageBlock
           url: /images/roof.jpg
@@ -68,7 +68,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Pressure Washing
-        subtitle: Starting at 399$
+        subtitle: Starting at 99$
         image:
           type: ImageBlock
           url: /images/Pressure-washing.jpg
@@ -84,7 +84,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Gutter Cleaning
-        subtitle: Starting at 199$
+        subtitle: Starting at 99$
         image:
           type: ImageBlock
           url: /images/gutter-cleaning-los-angeles.jpg
@@ -198,7 +198,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Commercial Cleaning
-        subtitle: $29.99/Window
+        subtitle: $19.99/Window
         image:
           type: ImageBlock
           url: /images/highendwindows.jpg
@@ -222,7 +222,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Solar Panel
-        subtitle: $19.99/Panel
+        subtitle: $14.99/Panel
         image:
           type: ImageBlock
           url: /images/solar panel.webp
@@ -246,7 +246,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: High-End Residential Windows
-        subtitle: $24.99/ Window
+        subtitle: $14.99/ Window
         image:
           type: ImageBlock
           url: /images/Normalwindow.jpeg
