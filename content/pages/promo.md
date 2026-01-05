@@ -9,9 +9,8 @@ sections:
       color: text-dark
     subtitle: Call to schedule a quick 5-minutes estimate
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Call us to schedule your window, roof and gutter cleaning this week. Call
+      to confirm if it's still active! We do same day estimate right now!
     actions:
       - type: Button
         label: Get started
