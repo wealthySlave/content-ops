@@ -198,7 +198,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Commercial Cleaning
-        subtitle: $29.99/Window
+        subtitle: $19.99/Window
         image:
           type: ImageBlock
           url: /images/highendwindows.jpg
