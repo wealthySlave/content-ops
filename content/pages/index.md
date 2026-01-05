@@ -246,7 +246,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: High-End Residential Windows
-        subtitle: $24.99/ Window
+        subtitle: $14.99/ Window
         image:
           type: ImageBlock
           url: /images/Normalwindow.jpeg
