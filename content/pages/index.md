@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Solar Panel/Window Cleaning
-        subtitle: $24.99/Window
+        subtitle: $14.99/Window
         text: >
           We started 2 years ago cleaning commercial and residential windows,
           but have now expanded our expertise into Full Exterior Maintenance
