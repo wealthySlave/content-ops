@@ -21,11 +21,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
     badge:
       type: Badge
       label: Only in this week!
