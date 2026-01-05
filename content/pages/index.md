@@ -52,7 +52,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Roof Cleaning
-        subtitle: Starting at 999$
+        subtitle: Starting at 299$
         image:
           type: ImageBlock
           url: /images/roof.jpg
