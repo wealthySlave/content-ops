@@ -38,7 +38,7 @@ sections:
       elementId: ''
     badge:
       type: Badge
-      label: Hottest Promo!
+      label: Only in this week
       color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
