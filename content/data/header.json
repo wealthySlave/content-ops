@@ -48,7 +48,7 @@
             "type": "Link",
             "label": "Promos",
             "altText": "",
-            "url": "/",
+            "url": "/promo",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
