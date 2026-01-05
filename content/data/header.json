@@ -46,7 +46,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Promos",
             "altText": "",
             "url": "/promo",
             "showIcon": false,
