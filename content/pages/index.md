@@ -68,7 +68,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Pressure Washing
-        subtitle: Starting at 399$
+        subtitle: Starting at 99$
         image:
           type: ImageBlock
           url: /images/Pressure-washing.jpg
