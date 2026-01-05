@@ -13,7 +13,7 @@ sections:
       to confirm if it's still active! We do same day estimate right now!
     actions:
       - type: Button
-        label: Get started
+        label: (503)-606-6201
         altText: ''
         url: /
         showIcon: false
